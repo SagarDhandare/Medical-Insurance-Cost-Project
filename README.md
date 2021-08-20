@@ -10,10 +10,11 @@ This repository consists of files required to deploy a Machine Learning Web App 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Medical-Insurance-Cost-Project/main/Images/demo.gif">
 
 ## Problem Statement
-
+We have predict the medical insurance cost based on certain feature available in the dataset.
 
 ## Dataset
 I found this dataset in an competation.
+
 [Medical Insurance Cost](https://github.com/SagarDhandare/Medical-Insurance-Cost-Project/tree/main/Datasets)
 
 
